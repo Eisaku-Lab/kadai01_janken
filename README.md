@@ -11,6 +11,7 @@
 
 ## ③アプリのデプロイURL
 - https://eisaku-lab.github.io/kadai01_janken/
+- ※動作確認完了：sarafi
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
