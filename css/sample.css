@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 32px;
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+main {
+    border-bottom: 1px solid #ccc;
+}
+
+footer {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+p {
+    font-size: 200%;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    height: 200px;
+}
+
+ul {
+    padding: 0;
+    border-top: 1px solid #000000;
+    display: table;
+    /* å®šç¾© */
+    table-layout: fixed;
+    width: 100%;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    border: 1px solid #666;
+    background-color: #FFF;
+    display: table-cell;
+    /* å®šç¾© */
+    cursor: pointer;
+}
+
+li:hover {
+    background: #0066CC;
+    color: #fff;
+}
+
+.subtitle{
+    margin-top: -30px;
+    color: #6c6a6a;
+}
+
+.player_status {
+    color: #c21010;
+}
+
+.computer_status {
+    color: #666;
+}
+
+.game_status {
+    display: flex;
+    /* align-items: center; */
+    text-align: center;
+    margin-left: 300px;
+    gap: 150px;
+    margin-top: -40px;
+    margin-bottom: -70px;
+}
+
+#computer_hand{
+    text-align: center;
+    align-items: center;
+    margin-bottom: -100px;
+}
+
+#judgment {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.gu_img {
+    width: 300px;
+    height: 300px;
+}
+
+.par_img {
+    width: 300px;
+    height: 300px;
+}
+
+.cho_img {
+    width: 300px;
+    height: 300px;
+}
