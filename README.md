@@ -10,8 +10,7 @@
 ・★が0になった方の敗北
 
 ## ③アプリのデプロイURL
-- https://tatsuyamaeta.github.io/janken_app/
-  ※実際のURLに置き換えてください
+- https://eisaku-lab.github.io/kadai01_janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
